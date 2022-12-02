@@ -7666,6 +7666,38 @@ textarea.form-control-lg {
   line-height: 2 !important;
 }
 
+.tag {
+    padding: 0.075em 0.5rem;
+    font-size: 0.775rem;
+    border-radius: 4.2rem;
+    color: #fff;
+    background-color: #198754;
+    border-color: #198754;
+    border: 1px solid transparent;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.tag-blue {
+    background-color: #007bff;
+}
+
+.tag-light-blue {
+    background-color: #17a2b8;
+}
+
+.tag-yellow {
+    background-color:#aa8000;
+}
+
+.tag-light-yellow {
+    background-color:#e0a800
+}
+
 .text-start {
   text-align: left !important;
 }
